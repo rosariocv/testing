@@ -1,0 +1,198 @@
+[
+  {
+    "page_number": 1,
+    "url": "https://www.clinicaalemana.cl/aranceles/list/hospitalizacion",
+    "title": "Aranceles",
+    "body_text": "Volver a Compartir Hospitalización Escribe el nombre o código de la prestación Buscar arancel... Buscar O conoce los aranceles de todas las prestaciones de hospitalización Tipo de prestación Días Cama Prestación Código interno Código Fonasa Valor paciente particular Valor paciente Fonasa Valor paciente Isapre DIA CAMA (POLISOMNOGRAFIA) (MQ) 202907 0201001 $329.342 $329.342 Ver glosa $327.548 DIA CAMA AISLAMIENTO MEDIC./CIRUGIA (MQ) 202912 0201001 $1.033.145 $1.033.145 Ver glosa $1.031.351 DÍA CAMA DE OBSERVACIÓN UDC NIVEL 1 202996 $450.689 $450.689 $450.689 DÍA CAMA DE OBSERVACIÓN UDC NIVEL 2 202997 $650.286 $650.286 $650.286 DIA CAMA EXCLUSIVA MATERNIDAD (MQ) 202943 0201401 $901.380 $901.380 Ver glosa $899.626 Horario hábil Lunes a viernes de 08:00 a 20:00 horas y sábados de 08:00 a 14:00 horas (con excepción de los días festivos). 1-5 de 17 1 2 3 4",
+    "rows": [],
+    "pagination": [
+      {
+        "text": "1",
+        "class_name": "_page_1rsl3_1 _pageSelected_1rsl3_94",
+        "aria_label": null,
+        "title": null,
+        "disabled": false,
+        "parent_class": "_pages_1rsl3_1"
+      },
+      {
+        "text": "2",
+        "class_name": "_page_1rsl3_1",
+        "aria_label": null,
+        "title": null,
+        "disabled": false,
+        "parent_class": "_pages_1rsl3_1"
+      },
+      {
+        "text": "3",
+        "class_name": "_page_1rsl3_1",
+        "aria_label": null,
+        "title": null,
+        "disabled": false,
+        "parent_class": "_pages_1rsl3_1"
+      },
+      {
+        "text": "4",
+        "class_name": "_page_1rsl3_1",
+        "aria_label": null,
+        "title": null,
+        "disabled": false,
+        "parent_class": "_pages_1rsl3_1"
+      }
+    ],
+    "grids": [
+      {
+        "role": "table",
+        "tag": "DIV",
+        "class_name": "_valuesContainerDesktop_1fqe6_23",
+        "text": "Prestación Código interno Código Fonasa Valor paciente particular Valor paciente Fonasa Valor paciente Isapre DIA CAMA (POLISOMNOGRAFIA) (MQ) 202907 0201001 $329.342 $329.342 Ver glosa $327.548 DIA CAMA AISLAMIENTO MEDIC./CIRUGIA (MQ) 202912 0201001 $1.033.145 $1.033.145 Ver glosa $1.031.351 DÍA CAMA DE OBSERVACIÓN UDC NIVEL 1 202996 $450.689 $450.689 $450.689 DÍA CAMA DE OBSERVACIÓN UDC NIVEL 2 202997 $650.286 $650.286 $650.286 DIA CAMA EXCLUSIVA MATERNIDAD (MQ) 202943 0201401 $901.380 $901.380 Ver glosa $899.626"
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "url": "https://www.clinicaalemana.cl/aranceles/list/hospitalizacion",
+    "title": "Aranceles",
+    "body_text": "Volver a Compartir Hospitalización Escribe el nombre o código de la prestación Buscar arancel... Buscar O conoce los aranceles de todas las prestaciones de hospitalización Tipo de prestación Días Cama Prestación Código interno Código Fonasa Valor paciente particular Valor paciente Fonasa Valor paciente Isapre DIA CAMA PIEZA EXCLUSIVA MEDICINA Y CIRUGIA (MQ) 202933 0201001 $901.380 $901.380 Ver glosa $899.586 DIA CAMA PIEZA EXCLUSIVA MEDICINA Y CIRUGIA (MQ) 202913 0201001 $901.380 $901.380 Ver glosa $899.586 DIA CAMA SUITE MATERNIDAD (MQ) 202942 0201401 $1.259.738 $1.259.738 Ver glosa $1.257.984 DIA CAMA SUITE MEDICINA CIRUGIA (MQ) 202915 0201001 $1.259.738 $1.259.738 Ver glosa $1.257.944 DIA CAMA UNIDAD INTERMEDIO PEDIATRICO (UTI) 202955 0201302 $1.300.574 $1.300.574 Ver glosa $1.294.714 Horario hábil Lunes a viernes de 08:00 a 20:00 horas y sábados de 08:00 a 14:00 horas (con excepción de los días festivos). 6-10 de 17 1 2 3 4",
+    "rows": [],
+    "pagination": [
+      {
+        "text": "1",
+        "class_name": "_page_1rsl3_1",
+        "aria_label": null,
+        "title": null,
+        "disabled": false,
+        "parent_class": "_pages_1rsl3_1"
+      },
+      {
+        "text": "2",
+        "class_name": "_page_1rsl3_1 _pageSelected_1rsl3_94",
+        "aria_label": null,
+        "title": null,
+        "disabled": false,
+        "parent_class": "_pages_1rsl3_1"
+      },
+      {
+        "text": "3",
+        "class_name": "_page_1rsl3_1",
+        "aria_label": null,
+        "title": null,
+        "disabled": false,
+        "parent_class": "_pages_1rsl3_1"
+      },
+      {
+        "text": "4",
+        "class_name": "_page_1rsl3_1",
+        "aria_label": null,
+        "title": null,
+        "disabled": false,
+        "parent_class": "_pages_1rsl3_1"
+      }
+    ],
+    "grids": [
+      {
+        "role": "table",
+        "tag": "DIV",
+        "class_name": "_valuesContainerDesktop_1fqe6_23",
+        "text": "Prestación Código interno Código Fonasa Valor paciente particular Valor paciente Fonasa Valor paciente Isapre DIA CAMA PIEZA EXCLUSIVA MEDICINA Y CIRUGIA (MQ) 202933 0201001 $901.380 $901.380 Ver glosa $899.586 DIA CAMA PIEZA EXCLUSIVA MEDICINA Y CIRUGIA (MQ) 202913 0201001 $901.380 $901.380 Ver glosa $899.586 DIA CAMA SUITE MATERNIDAD (MQ) 202942 0201401 $1.259.738 $1.259.738 Ver glosa $1.257.984 DIA CAMA SUITE MEDICINA CIRUGIA (MQ) 202915 0201001 $1.259.738 $1.259.738 Ver glosa $1.257.944 DIA CAMA UNIDAD INTERMEDIO PEDIATRICO (UTI) 202955 0201302 $1.300.574 $1.300.574 Ver glosa $1.294.714"
+      }
+    ]
+  },
+  {
+    "page_number": 3,
+    "url": "https://www.clinicaalemana.cl/aranceles/list/hospitalizacion",
+    "title": "Aranceles",
+    "body_text": "Volver a Compartir Hospitalización Escribe el nombre o código de la prestación Buscar arancel... Buscar O conoce los aranceles de todas las prestaciones de hospitalización Tipo de prestación Días Cama Prestación Código interno Código Fonasa Valor paciente particular Valor paciente Fonasa Valor paciente Isapre DIA-CAMA INTERMEDIO - CUNA (UTI) 202964 0201303 $706.050 $706.050 Ver glosa $700.190 DIA-CAMA INTERMEDIO CORONARIA (UTI) 202960 0201301 $1.300.574 $1.300.574 Ver glosa $1.294.714 DIA-CAMA TRASPLANTE MEDULA OSEA (MQ) 202935 0201101 $1.193.037 $1.193.037 Ver glosa $1.189.940 DIA-CAMA TRASPLANTE MEDULA OSEA (UTI) 202961 0201301 $1.491.295 $1.491.295 Ver glosa $1.485.435 DIA-CAMA UN.TRAT.INTENSIVO (UCI) 202954 0201201 $1.491.295 $1.491.295 Ver glosa $1.479.101 Horario hábil Lunes a viernes de 08:00 a 20:00 horas y sábados de 08:00 a 14:00 horas (con excepción de los días festivos). 11-15 de 17 1 2 3 4",
+    "rows": [],
+    "pagination": [
+      {
+        "text": "1",
+        "class_name": "_page_1rsl3_1",
+        "aria_label": null,
+        "title": null,
+        "disabled": false,
+        "parent_class": "_pages_1rsl3_1"
+      },
+      {
+        "text": "2",
+        "class_name": "_page_1rsl3_1",
+        "aria_label": null,
+        "title": null,
+        "disabled": false,
+        "parent_class": "_pages_1rsl3_1"
+      },
+      {
+        "text": "3",
+        "class_name": "_page_1rsl3_1 _pageSelected_1rsl3_94",
+        "aria_label": null,
+        "title": null,
+        "disabled": false,
+        "parent_class": "_pages_1rsl3_1"
+      },
+      {
+        "text": "4",
+        "class_name": "_page_1rsl3_1",
+        "aria_label": null,
+        "title": null,
+        "disabled": false,
+        "parent_class": "_pages_1rsl3_1"
+      }
+    ],
+    "grids": [
+      {
+        "role": "table",
+        "tag": "DIV",
+        "class_name": "_valuesContainerDesktop_1fqe6_23",
+        "text": "Prestación Código interno Código Fonasa Valor paciente particular Valor paciente Fonasa Valor paciente Isapre DIA-CAMA INTERMEDIO - CUNA (UTI) 202964 0201303 $706.050 $706.050 Ver glosa $700.190 DIA-CAMA INTERMEDIO CORONARIA (UTI) 202960 0201301 $1.300.574 $1.300.574 Ver glosa $1.294.714 DIA-CAMA TRASPLANTE MEDULA OSEA (MQ) 202935 0201101 $1.193.037 $1.193.037 Ver glosa $1.189.940 DIA-CAMA TRASPLANTE MEDULA OSEA (UTI) 202961 0201301 $1.491.295 $1.491.295 Ver glosa $1.485.435 DIA-CAMA UN.TRAT.INTENSIVO (UCI) 202954 0201201 $1.491.295 $1.491.295 Ver glosa $1.479.101"
+      }
+    ]
+  },
+  {
+    "page_number": 4,
+    "url": "https://www.clinicaalemana.cl/aranceles/list/hospitalizacion",
+    "title": "Aranceles",
+    "body_text": "Volver a Compartir Hospitalización Escribe el nombre o código de la prestación Buscar arancel... Buscar O conoce los aranceles de todas las prestaciones de hospitalización Tipo de prestación Días Cama Prestación Código interno Código Fonasa Valor paciente particular Valor paciente Fonasa Valor paciente Isapre FOTOTERAPIA - LUMINOTERAPIA 211173 $2.067 $2.067 $2.067 HOSPITALIZACION TRANSITORIA 202992 0201001 $385.345 $385.345 Ver glosa $383.551 Horario hábil Lunes a viernes de 08:00 a 20:00 horas y sábados de 08:00 a 14:00 horas (con excepción de los días festivos). 16-17 de 17 1 2 3 4",
+    "rows": [],
+    "pagination": [
+      {
+        "text": "1",
+        "class_name": "_page_1rsl3_1",
+        "aria_label": null,
+        "title": null,
+        "disabled": false,
+        "parent_class": "_pages_1rsl3_1"
+      },
+      {
+        "text": "2",
+        "class_name": "_page_1rsl3_1",
+        "aria_label": null,
+        "title": null,
+        "disabled": false,
+        "parent_class": "_pages_1rsl3_1"
+      },
+      {
+        "text": "3",
+        "class_name": "_page_1rsl3_1",
+        "aria_label": null,
+        "title": null,
+        "disabled": false,
+        "parent_class": "_pages_1rsl3_1"
+      },
+      {
+        "text": "4",
+        "class_name": "_page_1rsl3_1 _pageSelected_1rsl3_94",
+        "aria_label": null,
+        "title": null,
+        "disabled": false,
+        "parent_class": "_pages_1rsl3_1"
+      }
+    ],
+    "grids": [
+      {
+        "role": "table",
+        "tag": "DIV",
+        "class_name": "_valuesContainerDesktop_1fqe6_23",
+        "text": "Prestación Código interno Código Fonasa Valor paciente particular Valor paciente Fonasa Valor paciente Isapre FOTOTERAPIA - LUMINOTERAPIA 211173 $2.067 $2.067 $2.067 HOSPITALIZACION TRANSITORIA 202992 0201001 $385.345 $385.345 Ver glosa $383.551"
+      }
+    ]
+  }
+]
