@@ -1,0 +1,11 @@
+{
+  "requested_url": "https://www.clinicaalemana.cl/aranceles/list/hospitalizacion",
+  "main_status": 200,
+  "pagination_stop": "no enabled next control after page 1",
+  "final_url": "https://www.clinicaalemana.cl/aranceles/list/hospitalizacion",
+  "title": "Aranceles",
+  "pages_captured": 1,
+  "page_fingerprints": [
+    "4c33489a45d249ca9a12ee1d408f356bc0aeda36"
+  ]
+}
