@@ -1,0 +1,32 @@
+name: scrape-alemana-temp
+
+on:
+  push:
+    paths:
+      - "scrape_alemana.py"
+      - ".github/workflows/scrape_alemana.yml"
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install browser
+        run: |
+          python -m pip install --upgrade pip
+          pip install playwright
+          python -m playwright install --with-deps chromium
+      - name: Scrape portal
+        run: python scrape_alemana.py
+      - name: Upload scrape artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: alemana-scrape
+          path: out/
+          if-no-files-found: warn
