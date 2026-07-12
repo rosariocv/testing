@@ -7,10 +7,13 @@ on:
       - ".github/workflows/scrape_alemana.yml"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 25
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -23,10 +26,22 @@ jobs:
           python -m playwright install --with-deps chromium
       - name: Scrape portal
         run: python scrape_alemana.py
+      - name: Commit captured output
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -f out/
+          if git diff --cached --quiet; then
+            echo "No output changes"
+          else
+            git commit -m "Capture Clínica Alemana hospitalization [skip ci]"
+            git push
+          fi
       - name: Upload scrape artifact
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: alemana-scrape
+          name: alemana-hospitalizacion-scrape
           path: out/
           if-no-files-found: warn
