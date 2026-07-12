@@ -1,0 +1,345 @@
+[
+  {
+    "index": 1,
+    "url": "https://www.clinicaalemana.cl/aranceles/list/hospitalizacion",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "resource_type": "document",
+    "method": "GET",
+    "post_data": null,
+    "saved_as": "responses/0001_www.clinicaalemana.cl_aranceles_list_hospitalizacion.html",
+    "size_bytes": 2148699
+  },
+  {
+    "index": 2,
+    "url": "https://www.clarity.ms/tag/w1yk0xqy3k",
+    "status": 200,
+    "content_type": "application/x-javascript",
+    "resource_type": "script",
+    "method": "GET",
+    "post_data": null
+  },
+  {
+    "index": 3,
+    "url": "https://www.googletagmanager.com/gtm.js?id=GTM-M4PW6M",
+    "status": 200,
+    "content_type": "application/javascript; charset=UTF-8",
+    "resource_type": "script",
+    "method": "GET",
+    "post_data": null
+  },
+  {
+    "index": 4,
+    "url": "https://www.clarity.ms/tag/wqnda8w8cr?ref=gtm",
+    "status": 200,
+    "content_type": "application/x-javascript",
+    "resource_type": "script",
+    "method": "GET",
+    "post_data": null
+  },
+  {
+    "index": 5,
+    "url": "https://ad.doubleclick.net/ccm/s/collect?auid=258647198.1783817247&gtm=45He6781v6618846za200zd6618846xea",
+    "status": 204,
+    "content_type": "",
+    "resource_type": "fetch",
+    "method": "POST",
+    "post_data": null,
+    "body_error": "Error('Response.body: Protocol error (Network.getResponseBody): No data found for resource with given identifier')"
+  },
+  {
+    "index": 6,
+    "url": "https://connect.facebook.net/en_US/fbevents.js",
+    "status": 200,
+    "content_type": "application/x-javascript; charset=utf-8",
+    "resource_type": "script",
+    "method": "GET",
+    "post_data": null
+  },
+  {
+    "index": 7,
+    "url": "https://www.googletagmanager.com/gtag/js?id=G-VL9DKPYXQE&cx=c&gtm=4e6781",
+    "status": 200,
+    "content_type": "application/javascript; charset=UTF-8",
+    "resource_type": "script",
+    "method": "GET",
+    "post_data": null
+  },
+  {
+    "index": 8,
+    "url": "https://www.google.com/ccm/collect?rcb=18&frm=0&ae=g&auid=258647198.1783817247&dt=Aranceles&en=page_view&dl=https%3A%2F%2Fwww.clinicaalemana.cl%2Faranceles%2Flist%2Fhospitalizacion&scrsrc=www.googletagmanager.com&rnd=1868577229.1783817247&navt=n&npa=0&ep.ads_data_redaction=0&gtm=45He6781v6618846za200zd6618846xea&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~118131808~118826209~118897920~118897930~119027224&apve=1&apvf=f&apvc=1&tft=1783817246527&tfd=767&fmt=8",
+    "status": 200,
+    "content_type": "",
+    "resource_type": "fetch",
+    "method": "POST",
+    "post_data": null,
+    "body_error": "Error('Response.body: Protocol error (Network.getResponseBody): No data found for resource with given identifier')"
+  },
+  {
+    "index": 9,
+    "url": "https://www.googletagmanager.com/gtag/js?id=G-PR6Y9MEXR6&cx=c&gtm=4e6781",
+    "status": 200,
+    "content_type": "application/javascript; charset=UTF-8",
+    "resource_type": "script",
+    "method": "GET",
+    "post_data": null
+  },
+  {
+    "index": 10,
+    "url": "https://fonts.googleapis.com/css2?family=Rubik:wght@400;500&display=swap",
+    "status": 200,
+    "content_type": "text/css; charset=utf-8",
+    "resource_type": "stylesheet",
+    "method": "GET",
+    "post_data": null
+  },
+  {
+    "index": 11,
+    "url": "https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Short+Stack&display=swap",
+    "status": 200,
+    "content_type": "text/css; charset=utf-8",
+    "resource_type": "stylesheet",
+    "method": "GET",
+    "post_data": null
+  },
+  {
+    "index": 12,
+    "url": "https://www.clinicaalemana.cl/WebResource.axd?d=NjxTqR2bqTw1rewxxlkHPjxzcPISpH6p0zfwvBiQO_HdguHnIY5WedOjaqHp41zxrhjSirJmN9GaeZj6ZQ65NlzMJm2zFDUnvfA1QfLAAEpQBUAXbQ_22j-W8wP3vzjjLQGGOPqcziMz0gx7qfgZKdPJ_AMjyDjNdZM-qkwZ9S4XTSVgUV-p6pk_d3Q4hgxk_S224YMLXaMIEaKeu-5v9vuouGJbFfPrTJ5QWe_eqUs1&t=638865720433443649",
+    "status": 200,
+    "content_type": "application/x-javascript",
+    "resource_type": "script",
+    "method": "GET",
+    "post_data": null
+  },
+  {
+    "index": 13,
+    "url": "https://static.hotjar.com/c/hotjar-996139.js?sv=7",
+    "status": 200,
+    "content_type": "application/javascript; charset=UTF-8",
+    "resource_type": "script",
+    "method": "GET",
+    "post_data": null
+  },
+  {
+    "index": 14,
+    "url": "https://cdn.jsdelivr.net/npm/cas-ds-web-components@latest/build/cas-ds-web-components.js",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8",
+    "resource_type": "script",
+    "method": "GET",
+    "post_data": null
+  },
+  {
+    "index": 15,
+    "url": "https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap",
+    "status": 200,
+    "content_type": "text/css; charset=utf-8",
+    "resource_type": "stylesheet",
+    "method": "GET",
+    "post_data": null
+  },
+  {
+    "index": 16,
+    "url": "https://js.datadome.co/tags.js",
+    "status": 200,
+    "content_type": "text/javascript",
+    "resource_type": "script",
+    "method": "GET",
+    "post_data": null
+  },
+  {
+    "index": 17,
+    "url": "https://fonts.gstatic.com/s/rubik/v31/iJWKBXyIfDnIV7nBrXyw023e.woff2",
+    "status": 200,
+    "content_type": "font/woff2",
+    "resource_type": "font",
+    "method": "GET",
+    "post_data": null
+  },
+  {
+    "index": 18,
+    "url": "https://scripts.clarity.ms/0.8.67/clarity.js",
+    "status": 200,
+    "content_type": "application/javascript;charset=utf-8",
+    "resource_type": "script",
+    "method": "GET",
+    "post_data": null
+  },
+  {
+    "index": 19,
+    "url": "https://w.usabilla.com/c914eeb3fd9f.js?lv=1",
+    "status": 200,
+    "content_type": "text/javascript",
+    "resource_type": "script",
+    "method": "GET",
+    "post_data": null
+  },
+  {
+    "index": 20,
+    "url": "https://analytics.google.com/g/collect?v=2&tid=G-VL9DKPYXQE&gtm=45je6781v869700050z86618846za20gzb6618846zd6618846&_p=1783817246351&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=EAAAAGAC&are=1&cid=2119799287.1783817247&frm=0&ir=1&pscdl=noapi&rcb=12&sr=1440x1200&uaa=x86&uab=64&uafvl=HeadlessChrome%3B149.0.7827.55%7CChromium%3B149.0.7827.55%7CNot)A%253BBrand%3B24.0.0.0&uam=&uamb=0&uap=macOS&uapv=10_15_7&uaw=0&ul=es-cl&gaf=2&_s=1&tag_exp=115616986~115938466~115938468~118826210~118897920~118897930~119027224&sid=1783817247&sct=1&seg=0&dl=https%3A%2F%2Fwww.clinicaalemana.cl%2Faranceles%2Flist%2Fhospitalizacion&dt=Aranceles&en=page_view&_fv=1&_nsi=1&_ss=1&ep.flujo=&tfd=1521",
+    "status": 204,
+    "content_type": "text/plain",
+    "resource_type": "fetch",
+    "method": "POST",
+    "post_data": null,
+    "body_error": "Error('Response.body: Protocol error (Network.getResponseBody): No data found for resource with given identifier')"
+  },
+  {
+    "index": 21,
+    "url": "https://stats.g.doubleclick.net/g/collect?v=2&tid=G-VL9DKPYXQE&cid=2119799287.1783817247&gtm=45je6781v869700050z86618846za20gzb6618846zd6618846&rcb=12&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=115616986~115938466~115938468~118826210~118897920~118897930~119027224",
+    "status": 204,
+    "content_type": "text/plain",
+    "resource_type": "ping",
+    "method": "POST",
+    "post_data": null
+  },
+  {
+    "index": 22,
+    "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-PR6Y9MEXR6&gtm=45je6781v895777143z86618846za20gzb6618846zd6618846&_p=1783817246351&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=EA&are=1&cid=2119799287.1783817247&frm=0&ir=1&ngs=1&pscdl=noapi&rcb=4&sr=1440x1200&uaa=x86&uab=64&uafvl=HeadlessChrome%3B149.0.7827.55%7CChromium%3B149.0.7827.55%7CNot)A%253BBrand%3B24.0.0.0&uam=&uamb=0&uap=macOS&uapv=10_15_7&uaw=0&ul=es-cl&_s=1&tag_exp=115938466~115938469~118826210~118897920~118897930~119027224&sid=1783817247&sct=1&seg=0&dl=https%3A%2F%2Fwww.clinicaalemana.cl%2Faranceles%2Flist%2Fhospitalizacion&dt=Aranceles&en=page_view&_fv=1&_ss=1&tfd=1590",
+    "status": 204,
+    "content_type": "text/plain",
+    "resource_type": "fetch",
+    "method": "POST",
+    "post_data": null,
+    "body_error": "Error('Response.body: Protocol error (Network.getResponseBody): No data found for resource with given identifier')"
+  },
+  {
+    "index": 23,
+    "url": "https://script.hotjar.com/modules.fa52fb4272e01466771f.js",
+    "status": 200,
+    "content_type": "application/javascript; charset=utf-8",
+    "resource_type": "script",
+    "method": "GET",
+    "post_data": null
+  },
+  {
+    "index": 24,
+    "url": "https://portal-backend.clinicaalemana.cl/aranceles/by-group?group=hospitalizacion",
+    "status": 200,
+    "content_type": "application/json",
+    "resource_type": "fetch",
+    "method": "GET",
+    "post_data": null,
+    "saved_as": "responses/0024_portal-backend.clinicaalemana.cl_aranceles_by-group.json",
+    "size_bytes": 7087
+  },
+  {
+    "index": 25,
+    "url": "https://connect.facebook.net/signals/config/899891260617796?v=2.9.349&r=stable&domain=www.clinicaalemana.cl&hme=f29d86973612db0f0627890a64bdc8c47b471189050b33f2680b7d76997afc9a&ex_m=107%2C208%2C158%2C22%2C73%2C74%2C149%2C69%2C68%2C11%2C167%2C93%2C16%2C141%2C130%2C39%2C76%2C81%2C137%2C163%2C169%2C8%2C4%2C5%2C7%2C6%2C3%2C94%2C104%2C170%2C175%2C222%2C30%2C75%2C234%2C233%2C232%2C23%2C33%2C55%2C106%2C61%2C10%2C64%2C100%2C101%2C102%2C108%2C133%2C31%2C29%2C135%2C136%2C132%2C131%2C159%2C77%2C162%2C160%2C161%2C50%2C60%2C126%2C15%2C166%2C45%2C279%2C280%2C278%2C26%2C27%2C28%2C48%2C150%2C78%2C115%2C18%2C20%2C44%2C40%2C42%2C41%2C86%2C95%2C99%2C113%2C148%2C151%2C46%2C114%2C24%2C21%2C122%2C70%2C36%2C153%2C152%2C154%2C145%2C143%2C25%2C35%2C59%2C112%2C165%2C71%2C17%2C156%2C117%2C84%2C67%2C19%2C88%2C89%2C119%2C87%2C139%2C138%2C142%2C164%2C34%2C293%2C309%2C215%2C204%2C62%2C205%2C203%2C312%2C303%2C52%2C216%2C110%2C134%2C83%2C124%2C54%2C47%2C49%2C116%2C123%2C129%2C128%2C58%2C65%2C63%2C155%2C79%2C80%2C118%2C37%2C32%2C53%2C56%2C103%2C168%2C1%2C127%2C14%2C125%2C12%2C2%2C57%2C96%2C66%2C121%2C92%2C91%2C171%2C172%2C97%2C98%2C9%2C105%2C51%2C146%2C90%2C82%2C72%2C120%2C109%2C43%2C147%2C0%2C85%2C140%2C144%2C157%2C38%2C111%2C13%2C173",
+    "status": 200,
+    "content_type": "application/x-javascript; charset=utf-8",
+    "resource_type": "script",
+    "method": "GET",
+    "post_data": null,
+    "saved_as": "responses/0025_connect.facebook.net_signals_config_899891260617796.js",
+    "size_bytes": 393484
+  },
+  {
+    "index": 26,
+    "url": "https://vc.hotjar.io/sessions/996139?s=0.25&r=0.22618129643792573",
+    "status": 204,
+    "content_type": "",
+    "resource_type": "xhr",
+    "method": "GET",
+    "post_data": null,
+    "saved_as": "responses/0026_vc.hotjar.io_sessions_996139.txt",
+    "size_bytes": 0
+  },
+  {
+    "index": 27,
+    "url": "https://www.facebook.com/tr/?id=899891260617796&ev=PageView&dl=https%3A%2F%2Fwww.clinicaalemana.cl&rl=&if=false&ts=1783817247642&iw=false&sw=1440&sh=1200&v=2.9.349&r=stable&ec=0&o=12316&aems=0%3B0&fbp=fb.1.1783817247640.626585297107144994&eid=ob3_plugin-set_26f4cea3d3138727d980d2d348095a68a53bb7baa9db2de2cf49f0f11f4146e9&pm=1&hrl=7e12fa&ler=empty&plt=1281.9000000000015&ups[pv]=%7B%7D&ups[rpv]=%7B%7D&it=1783817247177&coo=false&cs_cc=1&cas=27386169527704940%2C7211951642265382%2C6048164278614665&dlc=1&cf=1&exp=s1&expv2[0]=pl0&expv2[1]=el2&expv2[2]=bc1&expv2[3]=ra0&expv2[4]=rp0&expv2[5]=im1&expv2[6]=hf1&rqm=GET",
+    "status": 200,
+    "content_type": "text/plain",
+    "resource_type": "image",
+    "method": "GET",
+    "post_data": null
+  },
+  {
+    "index": 28,
+    "url": "blob:https://www.clinicaalemana.cl/00377e6d-5486-4837-8171-5e14623dc272",
+    "status": 200,
+    "content_type": "text/javascript",
+    "resource_type": "script",
+    "method": "GET",
+    "post_data": null
+  },
+  {
+    "index": 29,
+    "url": "https://c.clarity.ms/c.gif",
+    "status": 302,
+    "content_type": "",
+    "resource_type": "image",
+    "method": "GET",
+    "post_data": null
+  },
+  {
+    "index": 30,
+    "url": "https://d6tizftlrpuof.cloudfront.net/themes/production/danielaclinicaalemana-button-00824e42e42ba06bca6541c81a6a6f8c.png",
+    "status": 200,
+    "content_type": "image/png",
+    "resource_type": "image",
+    "method": "GET",
+    "post_data": null
+  },
+  {
+    "index": 31,
+    "url": "https://sl-11a463aaedf44600a99367660fd6fa70.ecs.us-east-1.on.aws/events?cee=no",
+    "status": 200,
+    "content_type": "application/json",
+    "resource_type": "fetch",
+    "method": "POST",
+    "post_data": "{\"event_name\":\"PageView\",\"fb.dynamic_product_ads\":{},\"custom_data\":{},\"event_id\":\"ob3_plugin-set_26f4cea3d3138727d980d2d348095a68a53bb7baa9db2de2cf49f0f11f4146e9\",\"fb.pixel_id\":\"899891260617796\",\"fb.advanced_matching\":{},\"website_context\":{\"location\":\"https://www.clinicaalemana.cl/aranceles/list/hospitalizacion\",\"referrer\":\"\",\"isInIFrame\":false},\"fb.fbp\":\"fb.1.1783817247640.626585297107144994\",\"event_meta_info\":{\"cc_info\":{\"cas\":\"27386169527704940,7211951642265382,6048164278614665\"}}}",
+    "body_error": "Error('Response.body: Protocol error (Network.getResponseBody): No data found for resource with given identifier')"
+  },
+  {
+    "index": 32,
+    "url": "https://c.bing.com/c.gif?ctsa=mr&CtsSyncId=25023BAF150E4596B07D2AA2B82B0C6F&RedC=c.clarity.ms&MXFR=25802B5124506D2F0DCB3CC52050634E",
+    "status": 302,
+    "content_type": "",
+    "resource_type": "image",
+    "method": "GET",
+    "post_data": null
+  },
+  {
+    "index": 33,
+    "url": "https://c.clarity.ms/c.gif?ctsa=mr&CtsSyncId=25023BAF150E4596B07D2AA2B82B0C6F&MUID=290F23EB90E967DF207F347F910566C8",
+    "status": 200,
+    "content_type": "image/gif",
+    "resource_type": "image",
+    "method": "GET",
+    "post_data": null
+  },
+  {
+    "index": 34,
+    "url": "https://api-js.datadome.co/js/",
+    "status": 200,
+    "content_type": "application/json;charset=utf-8",
+    "resource_type": "xhr",
+    "method": "POST",
+    "post_data": "jspl=PXa51RqSh4qaqALKCO4415S6ej_iG_DEkSOy5OSzVfUYb5fL06gbgfeCjcUeWZS-Um5cMRL2cfGL0UFAz3DI-Ei4Y1pKgrsdouvo0iR4p3BWBcthYa2nDqU98FuKvGYhT2YJxNW-UH-k0MYpRHENsalMAEhh8lqR3HT4XWE2SpWT5AeqOCADpgxBL7JotV3N0gqvTE-z2POWH3MuQANT16R-5TxIhZzhCukD6s2ELGgqszxvmW_uf3ZknP7J3xKcPvzMp__4Dt0w4OCT1Tfp47a1ZbOgtXc41ZkER07z_yqZ5BxT5ThIxdeMZqjUFxdVr_TtIEqgZUmvRxzR1k6guq-7U8f2KQX0JJlzSdvOynXkLhrnS4fKx0QtXyB_tYL8q7knhc_FEuSC4gTum6yj4Mt55_qKvbPVWsp-_ahOFzg9hxSc0w2a-n-4sJbE6YeWyYuzVrgRz_RUZslCqVwi9Ef7u4ILqoauaOIJNXxhqs6Q5p4vFIdnLRMyV_ODY7s_4nyvcCE7_sNjiFGR2hvNmaeInHIPI2xDEYUN1kNEujTgGvxstR4BXMS3hxDxSWzAiFWYphW-IomAGrkNWVPLnqe7HtGkxE55KrgaVBMWtDv-2_PXau72IiMShCGFhFD2bpwTY9Y18aQhDuyoI9gv3Xjyjj0tRRu8JKZz8Gg5Adm9-wzKazgj29CIUCh1WEDlZU6Wczb8_F3lkuTpCgIPk6xcIXjfknoqQJ9v17J3G4HGQWkjUoEwXciV16rBTnEFR8-2c3f_lY2tmewunMsRG3Gm7EsQz2SNPD1DPml0wskMh4QWDAHg6c31cEWrV6029YeB83NDrlXXKAYucrj5SyBcc7qZDHiwqPY23s01DBo3D1sWYW1HWsN5unXGwleO7-vhtyiO-eI18bClHBIXzSwmd6ZLaaZQnMf_0HUjCxlLj_jrKlZHRwC0Z1dgsomr1wDj4ZQRYfNykyNodLAnxeryKuWMNgczegNmzXXwAzpnRJ5A0lPaOzTcN3652jRW_ovNWgm7W-yrFwFDOxUD86xvPCkxilkX-r6yi6-uuaWUcmVpK2phQhLovAhjf9BdNHWeq4xqAqZD7NCYoW5iGRFn06YzVQXhiWB0t-DOLP6CZ6oXP9ASnApiHoIp1q7ygLQBHjG3GA78GrZwQLtd5CRvXywpQmXCzljOavVVNPK6pQRFC-_dAVX25hI8gtxVKabZG5Gdq5LEnDtW-_hDU0-ixHF4HEs2252ZGXTw0RoNe9ujMNcsMWimaGBO9BykSdw-33xPOr7kso7JM8A5xzRno_yntMS4My9bFjO2K1jZ1kIbrHDw8_RZ-hnvapOtcdRxeDnyzXe4Wo7kSRxIjqQtil05f6aMgyuGRUKpuA7nqjRdaNkB8F-H2kZWtj791eiX2M5stEvjCEWCfql3kcHCVVvA9M5Gou5fRgaoCxGlt5BtdcTOgMjE42OCeYOGE5YH0kmogadxTg__FcoPshOSh1nBF-c3ks8AQO4o7-eRl9E_PTkIVoePavm7l0KpcU8VQy2jWaeKgcnK3GJKPrw-OKaveM7xTb74d5X-1IZ5Gk-Y3dcl9-MP5WxNIZ94CmyKYkrEzCz9OCO5ZBSLyg6yf14OS8fyY2LLmorsvjgG47aKkNwsC0gsYVJwgngMBGg4kLi118qazbHHkgDBH7SBJeDOeudMx6ZZEAeHNa6Lxdspax1DpSyOr5m2EySzym-h7OgM7uo4c5e_2rNsvpk_9D9yqWEkXzwtTlqXmjILNDYJz-ZPN1-Lne4p0RrIS0_YiBItZENz22h0kkLcbFblQmwAqCQZML-6wFinTvDSoilJLrADaXExxofMglo6JOdwz8__lxVSy3zz3ElLq8HCHM3dkikytHh_X2_rRF3nVOoTUMjXbFKT9j3hVTihx2wp248PpYSvwHTYwQ-37wOIIeTi0oOyeTcNEaF1lh2wFf5M_eA8_0RnNzuNCClCycOoJ-iX-fkl1zjGSyoW6r08MFI_1oO0CbY4a7CFlyo_o6GsGaoph8GVww9KtHa-vRDyyGVufrN8j1IquMT30KiMeY266X0p1azyGDF58LUBuvX2CBWAWSzgyLcr-iw4CSJeQAgytfq0BWig2PEa_xAh9dqv-6k97HLkc-JND7F--Mmw5jv8vcJmd8kRvyDobAsaXiIUaUiqdVW58EkPjeGLFv8LIrq0gXQx1SYKtwPNVwLky8Q8nZwymyfSeCgXlZhc_AX3DaeOFIQhI_4LtqSPCEcUJ7Oejjo9c1hezlTlI2TDWj3gwJxuyBpS0LXKNgYMKKFazKBLC95M6jrZQkWATk9-4aT6QL6KPOjJpQa2axPQcr7T9FsACWlxKRlSQKxVqFTkwI0hZhBSQq82bUqrwVC2j5Sbla2rqaS8rSeITaVQMjusBfbL5hFwTZZe_teT0Slj0QJq6wDQZB04Vs-RVQGI8zhggx9kc9gpnoFwC12JlC6NlkuT5Emd_T1SkJpDBlaP-GIeAmN4buFPdFFuAN8kcK5EeCksPAeC4PrsHqWeoynlTnEalNnQa8_bY1lebwBMB3pbo9pu-mKBqrSpKFxJGDmRuL6L6SON7gM50MT6jVWpORehJOAbZk-rjFv-qdxJ09E4JCY-UN5QFHbShwKPO2SIQZhZU4z8AbVd0ENuGSZwU9dfO3i1Upgwjxg97cThqCRB_-6Jzc7BT0ZCftLUWtNinxRPcGLWIxoMNpe6vGwgKmJ7ikzaYZLiWdVaTlOqn8qbur_swHa_jMoGN32JE1EuOYGwPDBFwSEnFI9sjP5aiRsamewwOrwZYf3hgOmcpiO9qp0YkBvyRGtTboAoAn8hZMjlY9rFZnrXP004lqa6G2jWVQieualmmxsgOGIiCx8mtg6b4FrG0T-MZIh4WXD2VgChgDuy81MKV9JEErdCqZGt_z2kykfjbrtw4PEj7yn5Sh9nSQGgfAQFP3n-CsB1vm5FgJsV4h2nLTpcnGRd6KWHbQCs8Rmtc-5R9NbfmjjxPXJ3I7u4dqurAI1S_OB0VABH-u3NQ34DhexQQ2pcKO-eTrFtkh3jspYzT5X9enCrdAuy9CmECUe174xtrW_ly1-7r2ppcOdRdFiPzwczL_dAFeX-Wmg4MiKcDDiZQePDmQVgZv0R_Dgdjyjq_t-NQsksbzt2DaMTMGvrrt6KC0WFLVS0LkZh3vNOtxhge7PU6hfCzESV-giW9Z431QfaLkvoIvBtb7fZ0EE7drILLrqbHAwbH4LoCo3kT0v_tFy6J2Mw-KH3X_THLppuOq16NCLAM295ykotgpHFiNIGdSiWBz46gBpBb0u5sCkKwUt3-cbyAOLEHtvnyhtYmI2x91eTimanQ1JeF2ymeF-fGI3YWgqdweF4NamdsH0qrxljTqyUL32UpzZDKzGmCrcFSxT5tpEKvK290D66K-nhOzuBDu-JLZ8rXOEL-7VquAu8fkxFiZCJQYXUZmbpLmqC-DA3IzB2E2e6PGjmV6ZoXeMf2yT30aihJMLEQItVflEWZS0Y9AStsoLEbGXT9LMy1yXzJgqHaDBrv3J8fYFHtzlZuZVq0vO1WeAZOw4KZLVBlcqQdpNxQW2XAmfe-WWgPHIUlsNjEu4j9b3_FwxZv9ABNHPC4K1sFH1w6tNMwU3hd_10jCrvL-aSjNNnHp0qtDox-jeoodAhRUg45Ecj8NT3JWrliDfBEenuH5ixHA5ukE1ul1GrM6DsJjVV6Y0hkkdFudVkKOqJX3O2SzEt6CCX9_G8HxN4e7ctF1sVXqf78BitHMGiUlmxgXLvUL24mfYq7y320tsJI--zkEZpJ25SKFpmwlPr1frSe-lu3bm16CPn9jIwptVWv0FI_PiAkvGiwiA9xKgS4mpwmpE2TlqDdK8hkTxG5NxWssqPZTsUXzFLUZH9L8gcwrYdZrxMwIVJAygUkhI8daJrkUennkK8806R_S9JfLoU9TjmJQcKjCHbO0IEtIR6V2KL7foHz1XGx-oEi56QgFViIqmkRDgbkZkKs3f7Ry3rMt6TUYu-BvSY9ocu4iTHJZIoCJOYla27zERc9oUZO9Z1N-qbdzWlwgbEHNFK4WGNLdRKK_DEa62H1ZqJT8ASZTtOaXmTYq2iFuhqGYOy3mirPgjdA932_K_9nt3dK2Cjvi3c_qMTi6lyXBNT7W5svfTqRCOMzwD8gMftmcRRLMIhcCUUnxUcyKF6Tpa43PmQuWNdwMI4W_oGWRL7IFVDtrsuNIWjEn-l0A2VBweEmDl0F2YbfamTpkOhAOL3UIFy9JxGlmYM1-s0JSe5ghR8FvF6YFpBSh3Zjfke35p2fyZ7JwjmrJbwBa38p4VBP3Rny62ji_F_vDGLpd77ApB8HDOfG9SG9D_AoZjtNI4JRuhiYdbRLKzoPQvBNbI-8SNfjPMMcL0GXQcWh3QXb8H9qENSyeSBhyMqe50B-RwE6V8AKzKMZ7Nh7wWnq5Ir5V0pHOa-smuZ96NARm3CluJsRI7AiOF9La_kQhV8cYrA3x7V4-lgrdJfPVQtPOYwfzC9DrrB3jHJ-vjlgnQAygz1bPoH9hkwyJVK0UX4AkZ4y8v6JVXGNX4_AuMUv1hGNsihTQPIuMegejRa4j9qJ0AnYXK5sOIUDlN1-gRqggFetlVBq6mKFPSjhEGW7b2-hnFGAUVg9VMTS2Igai1KdAF7fEDNQFyIxHh5wtL8jQq-P-rq69ytVNnrgY8PRo5d7DY6KrWd-T2QmltcN0cA_WyXp1zFPklYTZY7eUZuVxoi1T3WqbDWtshIGDyy-KSD_7Z-pKHx-xkZtT6wkHF7z8tDXrGhHK5h365HQyi-P_8lcpx2uJ8v04SwQ1JKMdao44C-Vg4jhInWliUMKHIIP4FGJGEGE7H-eMydLnKmmP-YNNqfcEqVDbfa9-C35FSE46JvhQVku7Cfov-RcG7m7cgjVV2KcmMt1dkrQhFr7Xx5Ct3kdrdzF0ImTtWkrXzMcvpJkPeL7qH-RwQrzOseOURG7rc3SFzXMy4pgVy9UXcSk74ZKgGWQpsGyeXLQm8T0LAzz1D_Wr6Tbi30yj3zy5SGFmXSmZ406r2-pR8RZo2cjKyMWP1bEPUtXoYBQ97xFnQx1wI9xk3GuEBfAPa663JUEiS2-e3R_qBDOX22gPYHfU2ebH2dW7WjJVICBLThp6jo5oKuPVPJzfMxzMJMr2nAu7e9UZvKwyCQtcw3hxDdMLjy3vZlRpJPcbXtUBA2ef24-YZ_jtt2cajE5DdPdT4SO7pOybCSY53CMsyxPZm628_RrWeYK1GT1BvKI37MK9aZR03IL9gNcMlU6dT497L_pZrdPuxuAYK9G6OtjwaomgzKa65pMGFA89CunhWHtYoaAkBBr_lWBAugMyyxUTjczQcueFb0ZgaR_t1HJfF3VrI5ZMhAWU2DSVnXRo8zfab7V9hN-w0nEnLR0T-k06ohNzVXciGnADJ1DACnvO6yfAifhjrJHCXZbKcdfhfWKagS0X1q6LLUK46JNBWO6uryNfSSUuega_b0Ae&eventCounters=%5B%5D&jsType=ch&cid=.keep&ddk=804917AE7CD86E7DEEBE5055E8378F&Referer=https%253A%252F%252Fwww.clinicaalemana.cl%252Faranceles%252Flist%252Fhospitalizacion&request=%252Faranceles%252Flist%252Fhospitalizacion&responsePage=origin&ddv=5.8.0",
+    "saved_as": "responses/0034_api-js.datadome.co_js.json",
+    "size_bytes": 238
+  },
+  {
+    "index": 35,
+    "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-PR6Y9MEXR6&gtm=45je6781v895777143za20gzb6618846zd6618846&_p=1783817246351&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=EEAAAAQ&ae=a&are=1&cid=2119799287.1783817247&frm=0&ir=1&ngs=1&pscdl=noapi&rcb=4&sr=1440x1200&uaa=x86&uab=64&uafvl=HeadlessChrome%3B149.0.7827.55%7CChromium%3B149.0.7827.55%7CNot)A%253BBrand%3B24.0.0.0&uam=&uamb=0&uap=macOS&uapv=10_15_7&uaw=0&ul=es-cl&_s=2&tag_exp=115938466~115938469~118826210~118897920~118897930~119027224&sid=1783817247&sct=1&seg=0&dl=https%3A%2F%2Fwww.clinicaalemana.cl%2Faranceles%2Flist%2Fhospitalizacion&dt=Aranceles&en=scroll&epn.percent_scrolled=90&_et=10&tfd=6603",
+    "status": 204,
+    "content_type": "text/plain",
+    "resource_type": "fetch",
+    "method": "POST",
+    "post_data": null,
+    "saved_as": "responses/0035_www.google-analytics.com_g_collect.txt",
+    "size_bytes": 0
+  },
+  {
+    "index": 36,
+    "url": "https://api-js.datadome.co/js/",
+    "status": 200,
+    "content_type": "application/json;charset=utf-8",
+    "resource_type": "xhr",
+    "method": "POST",
+    "post_data": "jspl=XtIANBLBjKm2L13WMIkPXeNUvoKtLP3sZz8q84owJWSpuobLy4HA09f1T8UyKu9o30J18igiyr8Kfy6Vbk0hUIeNEonM-9Eq7yvnO_IPpkK97d6f3wdtGa4rDVyfnsCcHw8dAWbStN6M4UuB_M6HOmr8uM501GjI4Yksv3E0HNp63qE5_Rok6IZbBM8b4m-126IeTck8BlcpQzzLAZwnU05vCXA0jh9hUiXPS71pn6uUeYWQpEjbI_Kv1D4AsaGg5E5qX0GHfVu6f4PUJd_5hSAr3nH3deDdqw1VG0If-hXuOR1L5_lS-WIWvF2vEDl8J1pnc508QS2rvJkOc_1O6-j5Mc8n8AVXYLWAPRD2rNsoNsscSkvgxwP_9p9bzqqaKHQJz_K3hpGWdugSoI3PAr-kT18nyoVaxJa382ugnj9pruWhaGX5R0TkI-gW9HM55HXLtGj-jSIVdB0fWyPQhIqg_noc6_uFFFglTFD3YoSHkncc9G-rMgDeh1TNpxUublwUrwpNxcVJFHAQb3IyRzN87K7quS1-_WpGEFbBtG7DVQ54m95zndG4youjE43B5FLEX4XF3jhJ7XrTPrCvaan_I7nq5ESenEEtEnubq_3iz_Zd9OV-Q5S_WVLacr3PPR20VJ-aBdCkLrMiQaTcjPoF_pHh6hNbHxsreLAKztpP2O0R-81NFp0EKlCwmJlAqbk2CcdcHMMZ7vbE0RyCYs1hUJazNzQiOXjkQfUH-Xbi6sQZe4NikDy1VqdesVY7Xf3XfrFBnE6ulC9APVlnPpq96mM3LlVWhDGuuZRQkdnJXXLPwy55-AoRC_pxfUoSWAEPpgLXBI0epxq0irpnNFfPb1PWtVBlHGqcAZojdlpVESzhJymSGKzAPTrUkFdskWAs89e_OgfCUhSIsoxkdB6nTTI8ZXoc2gvIui5ox-4-OiYuDJ-NrF5D5H1Eu6q2YaNeZkViYOvwipSTKmbODmD4Uj_5wy3_0QSFWzbEP2lruPYLSofyxOqdTdrh-LfPAKbGgIVdr3TYrZOnO71kdmWeemkqfY19VNAGQR_bReuQYKr2IrPy73-vu3rL1MkMms-wvqmyjXv-nmcp5BCnM0AA1PkXxVf0GdtqQbkZ_uQZU-PrkPSRKOzHoVldMP6NYr6PpP8H6mOk87DwDRVEseU5dLF_hUhMh-KrnGoDxPpvZpbZ811LmrFN9X4Wf43PZCpnbU8FsC9UlIrRgB3DOVTKFHBopNKx1i-faS_BYMHO0xXQePJRp_yZAR7r1dgvfvKGS_6eselUood-_Ms9cs9R-CyhI8MF4xan_Nrtv_5iJIpqUoAZlVpy_jsKx5LMk1MRAF3NQfwLM18yq8Y1cDIPb2HcJarWQo3GKdzdP_5wXtIwTmALZp-9-LbYgBOgbwbVuIcKlDr1w2_-O4eXccX3G1hLzEdLRvIS4nvQdMGN2C0wfHitmsxkBvktweXtMMyGlLzhjleKPmB0_cb-JXBczzBSmfEesVL4cHPOhtDhmJ9jiDLGpxQffRkecvt5UM-TX-kfC5FRhsxcDi6lGdS2wJxZYhPWlUBhbfE3tyBHtkPYtuq9t1m0sKOB9wYkJFi_tCSFDSlJU5kUcv3CaPzl61zsAtNw7EbMOlRBljeQDDLIv9ggNdIPIdLGn05QtVIlOJqS226C8FEDYvUrdmP-o6bq59apOSPhc2LhUzhCvC19vlPHWCcx1DArjScTwTa6odVWg_Lk-Whn1l924MfMiEJFi4JDRd7-sOylXlDfgp22aVL-DwTK2oAZS_PXWKjMtGCaqqsbzdTsX7iiwyhI-Y4ogqeitvqiUilgx7OZTdwQB3h2hIC59bNCVKVPGq1_au1shNJztsLpailGi6bAUYx9i8ZtNb0jcVh4BB_40GnNj1Tztqwwk-zNhby3YB2aP37PAZO7SOFLolT7ZbcJEM_THM-ROnenNW8WA7A_m7CR2n_gJkzd9VHXuiMLEB4_Z4nMn9NRzKPTHiS4R9sSHyoLdEI0f1d9aN7X2ydALi29R9_ul3cZLnA0jrhzKPAXeZ6kwA7h0ZEwbuYYtDygc1edYENfTGtImUliJWsb2ptHJILCxNNAi7Un8Qk0-45fuQd9cOng_AsL6ZbzZLmEuy_IPXastrJDkJUg1AGGOI8PAROPP9JFug3xF-B3ajmd6sE28L9Kpmx6iihk2Rt11Vfta3vCFNA-TyYnEHO5Wvxs0ZzgtlYDmL7MwtBAEnkgoLJr6DvtXx15aWv4kaPu28DZMpX50G8PLWAM-FevuSoCLrbxkvh6qFGqXNfkdagSop_Uft8oUL0Aq5zMPNQDH4-onqN8DZ_aHBMZdQLP4t4yGmg9gWMN2sR4mnz0ju0BVTKZ97QnSbTrCmslaNChfexw0j6SxLqiSUrXbY_fuMiBBZ3z3oXatxcCcUCX9Yto8KHyOqJyAYF37KHi9H2fUxXYdEjM7-06NA8VsgBnSWxQ9kGJh4KictdmqpaLlRkxFnoQzsOxB96r7AfCxenv-i2E1WsnaNMm52XwziApecgsgru6c326uPKjoIlJe9wT0Mf46lqf_vdFS2fzvlEBRLhgXRDloxnjRczHbyzGz4TQdBUu_mJbASq49Cpihf0lfr4aoltU8EOBVg1r6bKYKzHJ2Y6sHHfCnckYMXlyXDD2DCEvtBrWJc-Ubc1uToTziXNK0SDXqSINHCwTNw9ElpY8n71yyEr_R5b81w2MC3yaHMYTsrz7L1GG8kfSDRiNcVXBYpwJoGWCFNFZgxrmC8VQXbYdVmGtDWF0IB0MyW9dfRz7qC71ZxJD59QTwAajWJirOxQtDAanfYsfUq3ETHokHDYMg8zUpPfHbq4ndR-rtOgK51K202V-_xGUlpsZpTt_movJ2dNS1n0KN3fXztVYJ3z_-QR5tFutrWEPlAt4Boud9Tl8p5BLWZ352u-KP5sZVJ3LSO3f-KUAoES5tyl_oGCDSJr2CbBSc31yj2NYHJoZol0vVxq9TTj2PlzxFOFi-fwo2N-2Qwlg5Pl0LJ8tCk1JES50QkZ1TkzAYMLwMxfF9Xu_Vc719H3etVUBCXU6ALpP5pgFuyCsLWoOIapfMCLt0ZraNPMxOr5xkxi2DdkmERpVhtYlcWVELiGzzA2xVamy94X-NsF7C63cEdphvFGJOhSdbodUCXUthnBlNUy1Jas_PlIA7pcHxGuD5chZLSwp2Ucw_aJYrQ4q-K-TbgDmrnIsblp7lkHkgQvkieFRzgxrkkaeqoIKrq0rCmJ63UFOxszej_eTDewGdT3i3UzUwt2c3_C48Gqq107zU1_dvxGG5EGiy0QAVBXaf5_x0Ymi_HjbsNM9XKox7iiLtU-zllKuEitFkru8Mi_JCklVC2h1_3yob9nRhFUgrJWGy6bLswVEOy5_X0Iv7qNgxpVwmBZ8oSmevi-bv-9LFbBBn-XsT4noThRtD-nJYakUwmcEA3FDpdrpmzfEatZOPNPB_0-f3EuO4PSc9-bgqC49jQepc9z9vbiOvuLKZg5OcCdls64pY091UcP1vtmBnlbEsqkyhHW6mySg8BKJaTLXpbdJvXvRyNWUQFIRkJFkHyq-la7UhsGSfjH4LBCTPaHNoYOYxGzg43VhDHZGQvYSRVv91jztxJh7bJA-SEUL0yEfpwHgWkSC18zrZSkoCa8V9molUidxObA6FLCRDrV2cA0NPOcwDYjVVnMb21HjCNJH97i13OiDU5cvb7ciohPXpR91S4VUoXBBmaBoVkApZHRVgCLSASEds3kD1tDkGbL-Wxv0nwJn-l8QRdwM-OF7knaBtNBk3J-XWlAZQMVnmn_E6d09d7oACDdFbM2KXuMXJLBpFdtMHkR24OZAU9vT-C7eZZ_WnuDHJUEUSMc9OXFtwmCiQYheja2-SZji8pey1nTTHA4v86XcTuWjfb8-BIfglSDE840CiyryLgPQz9kBF_XPf3C7O4SRvTs4yEsxdtEsSNWjXGcYz1XNlxvppWxumnir9PaCdJejYoqrXnokrB1x5XCXkRMIRjmFopvgyF4ay6oTFhdjmVlRdSspbHETB6L09Zh_hSLFmO2mSMrvMhu_Q-GuCexZsGXZ9-ub56d70qgMDNmN5J3Z5QULLoPBTlDh4tRkTS6BV_rx3J92uTyVsgR9Zsut6Rj6y1TGdg6E9Gcsf7CdDJdb9TENoBrj93CdVY2qu1xalWsps4yDGW90K4bRgK5lmYqUVXz1FRs-oYAgBiGdSFX_-8KIofkfF45GCMG8dIayp7qGMmpdJP30c3iJcwsXMzuPFTmefSueSKYphtYprFMGTa0z0_HzHGmEOIiAWKuHAjf4vAH7F61oA0tFgQGQI8dk_awz1N3_zIzGj2hxyESs8Ap8Thkdq7anJ9-SMNs3EYmftTCRuV9SpYilX2id4WrIihXFtiicdu5YBZwdqtPr4npjhNq8Nb399LGBbrRyChK9agiDphVcS1_NdY7R-fROzp8pSczn8EsV1ywC6C9N4IkxB0XlEnrquDHHIbueLAXdUV3Y4ARsmNs0YqhoRCZX_88o3Lszzi6pG0QDKJ8eMHSQiZb9OrD10NlXcA3WLW-iVIMK2xLTEzA0TshjQUnKJKcdXRZJoyVJNaRyIooLLN_tmGLF0j-a279frYRpnpIVE0PcALXHN-5oRKd62b0qRZEswzSZ204mnpoSlHZC2WvSw0r6iZ-DM12RuTUAHyAyWSmDr2P0BNiWLA64SpVfAf60WUESYXJRbp2QHgt7yWCcUAMnX--AYxiQUqnFzYwhtq3ZoqNgbW7BlfGl9f7GvyKRKgV7_AXYdaLeOMRTkxMHGHzJEk36D0pByicD-Ezc0I-CPxYzeP8IJiuLsbdiDK3BFAw7CMgJqj0XPpzLK_IY0AcTibgj7sRWjohCOgC5p5Vbo79N9Jf5pVUVOWgM_7quDstP41QaERRGQvcz6cBs2Y90y6NXwNErg9vQ0DyAPOUdfh-iHzf5ofeHQflJ7QJLHE7MXLKCsGOoOk0MbbQlCGiNEIL6LOD-fOy7t2dO68FOjMsmaqOrnyvV92QVGniNSw9wAfHcok9s-grLgbWN3m3qjJ0KU4FL55fPf3D-6njSKljZoerFtJbOdD9HdAsWujO3Gu4NKKZhep_JNRm3JvytNJUpgbYKkl8iBf5XNi5QYUZxAXjvtVSUcsCme7eXjCCj0JzmG8bqfCx6yhl9i3QIOcb-R0jatqTEP6Gyulepw-DbUzN0Swbp8X5JqfthkL1daba-se2PliIo9gD_cnbyukHT3sWMYxSEzALI0mP78mLAU_7UN4yKr-9OjAIv-CzE451xFPGoN2JzpebwNlbtwzP4b0UlhbzOEjq5g1YI3inzlZvxWCAeTwZqc1WQeg_1LqqnJ0PMxRIHs7XxAmeJLtJt2vqN9RY2s42OI6fa9rCNWcNsOlgQsVA1pPzT_uwAly0iPL9RU5BycVMAUm_L-fUj5PJ2Kely7Qbax25wRUVxAoNaxfdQ5d5qV4KuCzCsxJdQkLKQKH8fDCbplfUFaCwJ8H3z8i36syck0ugR_SE5dxusDaO2TAydTBya3DzisclVdJ5NJbPY_FrWzvg9fjDImQvNfCJeZ7TYrruVBks5OHg-YefoP8uDZGuKDp6u8pBiiS0IxreXRVwI6N6Op-ZLvPr9B7tDudpy2KuPTsVRo-nIskH5zvCjHydBtQ4avMGybB6q&eventCounters=%5B%5D&jsType=ac&cid=w1u3dMZQFKuKEdV6Zi6jBXPhj8hlzi4zQl4lD3Ukrt2wWGpQQKZEMRIki6gGHY95_dBCEbg69_w8~ztFgcpVIPspcYZEF8lcFScBpQHvSFW546gyJcVB6Uq6pxV0Rxd4&ddk=804917AE7CD86E7DEEBE5055E8378F&Referer=https%253A%252F%252Fwww.clinicaalemana.cl%252Faranceles%252Flist%252Fhospitalizacion&request=%252Faranceles%252Flist%252Fhospitalizacion&responsePage=origin&ddv=5.8.0",
+    "saved_as": "responses/0036_api-js.datadome.co_js.json",
+    "size_bytes": 238
+  }
+]

@@ -1,0 +1,344 @@
+{
+  "url": "https://www.clinicaalemana.cl/aranceles/list/hospitalizacion",
+  "main_status": 200,
+  "title": "Aranceles",
+  "final_url": "https://www.clinicaalemana.cl/aranceles/list/hospitalizacion",
+  "body_text": "Volver a\nCompartir\nHospitalización\nEscribe el nombre o código de la prestación\nBuscar arancel...\nBuscar\nO conoce los aranceles de todas las prestaciones de hospitalización\nTipo de prestación\nDías Cama\nPrestación\nCódigo interno\nCódigo Fonasa\nValor paciente particular\nValor paciente Fonasa\nValor paciente Isapre\nDIA CAMA\n(POLISOMNOGRAFIA) (MQ)\n202907\n0201001\n$329.342\n$329.342\nVer glosa\n$327.548\nDIA CAMA AISLAMIENTO MEDIC./CIRUGIA\n(MQ)\n202912\n0201001\n$1.033.145\n$1.033.145\nVer glosa\n$1.031.351\nDÍA CAMA DE OBSERVACIÓN UDC NIVEL 1\n202996\n$450.689\n$450.689\n$450.689\nDÍA CAMA DE OBSERVACIÓN UDC NIVEL 2\n202997\n$650.286\n$650.286\n$650.286\nDIA CAMA EXCLUSIVA MATERNIDAD\n(MQ)\n202943\n0201401\n$901.380\n$901.380\nVer glosa\n$899.626\nHorario hábil\nLunes a viernes de 08:00 a 20:00 horas y sábados de 08:00 a 14:00 horas (con excepción de los días festivos).\n1-5 de 17\n1\n2\n3\n4",
+  "scripts": [
+    "https://scripts.clarity.ms/0.8.67/clarity.js",
+    "https://js.datadome.co/tags.js",
+    "https://connect.facebook.net/signals/config/899891260617796?v=2.9.349&r=stable&domain=www.clinicaalemana.cl&hme=f29d86973612db0f0627890a64bdc8c47b471189050b33f2680b7d76997afc9a&ex_m=107%2C208%2C158%2C22%2C73%2C74%2C149%2C69%2C68%2C11%2C167%2C93%2C16%2C141%2C130%2C39%2C76%2C81%2C137%2C163%2C169%2C8%2C4%2C5%2C7%2C6%2C3%2C94%2C104%2C170%2C175%2C222%2C30%2C75%2C234%2C233%2C232%2C23%2C33%2C55%2C106%2C61%2C10%2C64%2C100%2C101%2C102%2C108%2C133%2C31%2C29%2C135%2C136%2C132%2C131%2C159%2C77%2C162%2C160%2C161%2C50%2C60%2C126%2C15%2C166%2C45%2C279%2C280%2C278%2C26%2C27%2C28%2C48%2C150%2C78%2C115%2C18%2C20%2C44%2C40%2C42%2C41%2C86%2C95%2C99%2C113%2C148%2C151%2C46%2C114%2C24%2C21%2C122%2C70%2C36%2C153%2C152%2C154%2C145%2C143%2C25%2C35%2C59%2C112%2C165%2C71%2C17%2C156%2C117%2C84%2C67%2C19%2C88%2C89%2C119%2C87%2C139%2C138%2C142%2C164%2C34%2C293%2C309%2C215%2C204%2C62%2C205%2C203%2C312%2C303%2C52%2C216%2C110%2C134%2C83%2C124%2C54%2C47%2C49%2C116%2C123%2C129%2C128%2C58%2C65%2C63%2C155%2C79%2C80%2C118%2C37%2C32%2C53%2C56%2C103%2C168%2C1%2C127%2C14%2C125%2C12%2C2%2C57%2C96%2C66%2C121%2C92%2C91%2C171%2C172%2C97%2C98%2C9%2C105%2C51%2C146%2C90%2C82%2C72%2C120%2C109%2C43%2C147%2C0%2C85%2C140%2C144%2C157%2C38%2C111%2C13%2C173",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.clarity.ms/tag/wqnda8w8cr?ref=gtm",
+    "https://static.hotjar.com/c/hotjar-996139.js?sv=7",
+    "https://www.googletagmanager.com/gtag/js?id=G-PR6Y9MEXR6&cx=c&gtm=4e6781",
+    "https://www.googletagmanager.com/gtag/js?id=G-VL9DKPYXQE&cx=c&gtm=4e6781",
+    "https://www.clarity.ms/tag/w1yk0xqy3k",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-M4PW6M",
+    "https://script.hotjar.com/modules.fa52fb4272e01466771f.js",
+    "https://cdn.jsdelivr.net/npm/cas-ds-web-components@latest/build/cas-ds-web-components.js",
+    "https://www.clinicaalemana.cl/WebResource.axd?d=NjxTqR2bqTw1rewxxlkHPjxzcPISpH6p0zfwvBiQO_HdguHnIY5WedOjaqHp41zxrhjSirJmN9GaeZj6ZQ65NlzMJm2zFDUnvfA1QfLAAEpQBUAXbQ_22j-W8wP3vzjjLQGGOPqcziMz0gx7qfgZKdPJ_AMjyDjNdZM-qkwZ9S4XTSVgUV-p6pk_d3Q4hgxk_S224YMLXaMIEaKeu-5v9vuouGJbFfPrTJ5QWe_eqUs1&t=638865720433443649"
+  ],
+  "links": [
+    {
+      "text": "Volver a",
+      "href": "https://www.clinicaalemana.cl/aranceles",
+      "cls": "_container_4tzck_1 _bc_ye3xd_1",
+      "aria": null
+    },
+    {
+      "text": "Ver glosa",
+      "href": "",
+      "cls": "_link_1fqe6_140",
+      "aria": "Ver glosa Fonasa"
+    },
+    {
+      "text": "Ver glosa",
+      "href": "",
+      "cls": "_link_1fqe6_140",
+      "aria": "Ver glosa Fonasa"
+    },
+    {
+      "text": "Ver glosa",
+      "href": "",
+      "cls": "_link_1fqe6_140",
+      "aria": "Ver glosa Fonasa"
+    },
+    {
+      "text": "",
+      "href": "https://www.clinicaalemana.cl/",
+      "cls": "",
+      "aria": "Volver a página de inicio de Clínica Alemana"
+    },
+    {
+      "text": "Centro de ayuda",
+      "href": "https://centrodeayuda.clinicaalemana.cl/?itm_source=header-cas&itm_medium=web&itm_campaign=centro-de-ayuda-header&_ga=2.163849791.1865825919.1676902332-1791707714.1661293851&_gl=1*11v0ttz*_ga*MTc5MTcwNzcxNC4xNjYxMjkzODUx*_ga_PR6Y9MEXR6*MTY3NjkxNDIzNi44Ny4wLjE2NzY5MTQyMzYuMC4wLjA.*_ga_VL9DKPYXQE*MTY3NjkxNDIzNi45Ny4wLjE2NzY5MTQyMzYuNjAuMC4w",
+      "cls": "item",
+      "aria": null
+    },
+    {
+      "text": "",
+      "href": "tel:+56222101111",
+      "cls": "",
+      "aria": null
+    },
+    {
+      "text": "",
+      "href": "tel:+56229101700",
+      "cls": "",
+      "aria": null
+    },
+    {
+      "text": "",
+      "href": "tel:+56229109911",
+      "cls": "",
+      "aria": null
+    },
+    {
+      "text": "",
+      "href": "https://www.clinicaalemana.cl/alemana-go-web?itm_source=header-cas&itm_medium=web&itm_campaign=home-cas-iniciar-sesion",
+      "cls": "",
+      "aria": null
+    },
+    {
+      "text": "",
+      "href": "https://miclave.clinicaalemana.cl/?itm_source=header-cas&itm_medium=web&itm_campaign=home-cas-pide-tu-clave&_ga=2.98190751.1865825919.1676902332-1791707714.1661293851&_gl=1*1oaa24h*_ga*MTc5MTcwNzcxNC4xNjYxMjkzODUx*_ga_PR6Y9MEXR6*MTY3NzA3NjU3Ni45Ny4wLjE2NzcwNzY1NzYuMC4wLjA.*_ga_VL9DKPYXQE*MTY3NzA3NjU3Ni4xMDcuMC4xNjc3MDc2NTc2LjYwLjAuMA..",
+      "cls": "",
+      "aria": null
+    },
+    {
+      "text": "",
+      "href": "https://www.clinicaalemana.cl/",
+      "cls": "logo",
+      "aria": "Volver a página de inicio de Clínica Alemana"
+    },
+    {
+      "text": "",
+      "href": "https://www.instagram.com/clinicaalemanadesantiago/",
+      "cls": "social-item",
+      "aria": null
+    },
+    {
+      "text": "",
+      "href": "https://www.linkedin.com/company/clinica-alemana-de-santiago",
+      "cls": "social-item",
+      "aria": null
+    },
+    {
+      "text": "",
+      "href": "https://twitter.com/clinicaalemana",
+      "cls": "social-item",
+      "aria": null
+    },
+    {
+      "text": "",
+      "href": "https://www.facebook.com/Clinicaalemanadesantiago/",
+      "cls": "social-item",
+      "aria": null
+    },
+    {
+      "text": "",
+      "href": "https://open.spotify.com/user/8001v856hnvkpq7ytrik14qlg",
+      "cls": "social-item",
+      "aria": null
+    },
+    {
+      "text": "",
+      "href": "https://www.youtube.com/channel/UCVTx7AHcRM8auQ68PLDwrjA",
+      "cls": "social-item",
+      "aria": null
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Compartir",
+      "cls": "_option_ye3xd_1",
+      "aria": null,
+      "disabled": false,
+      "html": "<button class=\"_option_ye3xd_1\">Compartir</button>"
+    },
+    {
+      "text": "1",
+      "cls": "_page_1rsl3_1 _pageSelected_1rsl3_94",
+      "aria": null,
+      "disabled": false,
+      "html": "<button class=\"_page_1rsl3_1 _pageSelected_1rsl3_94\">1</button>"
+    },
+    {
+      "text": "2",
+      "cls": "_page_1rsl3_1",
+      "aria": null,
+      "disabled": false,
+      "html": "<button class=\"_page_1rsl3_1\">2</button>"
+    },
+    {
+      "text": "3",
+      "cls": "_page_1rsl3_1",
+      "aria": null,
+      "disabled": false,
+      "html": "<button class=\"_page_1rsl3_1\">3</button>"
+    },
+    {
+      "text": "4",
+      "cls": "_page_1rsl3_1",
+      "aria": null,
+      "disabled": false,
+      "html": "<button class=\"_page_1rsl3_1\">4</button>"
+    },
+    {
+      "text": "",
+      "cls": "_arrowButton_1rsl3_1",
+      "aria": null,
+      "disabled": true,
+      "html": "<button class=\"_arrowButton_1rsl3_1\" disabled=\"\"><cas-icon></cas-icon></button>"
+    },
+    {
+      "text": "",
+      "cls": "_arrowButton_1rsl3_1",
+      "aria": null,
+      "disabled": false,
+      "html": "<button class=\"_arrowButton_1rsl3_1\"><cas-icon></cas-icon></button>"
+    },
+    {
+      "text": "Reservar hora",
+      "cls": "base primary1 large body2 icon",
+      "aria": null,
+      "disabled": false,
+      "html": "<button type=\"button\" class=\"base primary1 large body2 icon\">\n        <!--?lit$097553368$--><cas-icon variant=\"flat\" size=\"20\" parentvariant=\"primary1\" name=\"flat-calendarOn\"></cas-icon>\n        <span><!--?lit$097553368$-->Reservar hora</span>\n      </button>"
+    },
+    {
+      "text": "WhatsApp",
+      "cls": "item",
+      "aria": null,
+      "disabled": false,
+      "html": "<button class=\"item\">\n                  <div class=\"icon\">\n                    <cas-icon size=\"24\" name=\"flat-whatsapp\"></cas-icon>\n                  </div>\n                  <cas-text variant=\"caption2\"><!--?lit$097553368$-->WhatsApp</cas-text>\n                </button>"
+    },
+    {
+      "text": "Instagram",
+      "cls": "item",
+      "aria": null,
+      "disabled": false,
+      "html": "<button class=\"item\">\n                  <div class=\"icon\">\n                    <cas-icon size=\"24\" name=\"flat-instagramSolid\"></cas-icon>\n                  </div>\n                  <cas-text variant=\"caption2\"><!--?lit$097553368$-->Instagram</cas-text>\n                </button>"
+    },
+    {
+      "text": "Facebook",
+      "cls": "item",
+      "aria": null,
+      "disabled": false,
+      "html": "<button class=\"item\">\n                  <div class=\"icon\">\n                    <cas-icon size=\"24\" name=\"flat-facebook\"></cas-icon>\n                  </div>\n                  <cas-text variant=\"caption2\"><!--?lit$097553368$-->Facebook</cas-text>\n                </button>"
+    },
+    {
+      "text": "Twitter",
+      "cls": "item",
+      "aria": null,
+      "disabled": false,
+      "html": "<button class=\"item\">\n                  <div class=\"icon\">\n                    <cas-icon size=\"24\" name=\"flat-twitter\"></cas-icon>\n                  </div>\n                  <cas-text variant=\"caption2\"><!--?lit$097553368$-->Twitter</cas-text>\n                </button>"
+    },
+    {
+      "text": "Correo",
+      "cls": "item",
+      "aria": null,
+      "disabled": false,
+      "html": "<button class=\"item\">\n                  <div class=\"icon\">\n                    <cas-icon size=\"24\" name=\"flat-mail\"></cas-icon>\n                  </div>\n                  <cas-text variant=\"caption2\"><!--?lit$097553368$-->Correo</cas-text>\n                </button>"
+    },
+    {
+      "text": "Copiar link",
+      "cls": "item hide-desktop",
+      "aria": null,
+      "disabled": false,
+      "html": "<button class=\"item hide-desktop\">\n              <div class=\"icon\">\n                <cas-icon name=\"flat-copy\" size=\"24\"></cas-icon>\n              </div>\n              <cas-text variant=\"caption2\">Copiar link</cas-text>\n            </button>"
+    },
+    {
+      "text": "Volver arriba",
+      "cls": "",
+      "aria": null,
+      "disabled": false,
+      "html": "<button>\n            <cas-text variant=\"caption1\">Volver arriba</cas-text>\n          </button>"
+    }
+  ],
+  "inputs": [
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "",
+      "value": "",
+      "placeholder": "",
+      "cls": ""
+    }
+  ],
+  "tables": [],
+  "custom_elements": [
+    "cas-button",
+    "cas-footer",
+    "cas-header",
+    "cas-header-head",
+    "cas-icon",
+    "cas-modal",
+    "cas-new-footer-bottom",
+    "cas-share",
+    "cas-text"
+  ],
+  "candidate_nodes": [
+    {
+      "tag": "A",
+      "id": "",
+      "cls": "",
+      "text": "",
+      "html": "<a href=\"https://www.clinicaalemana.cl\" title=\"Clínica Alemana de Santiago\" aria-label=\"Volver a página de inicio de Clínica Alemana\"><!--?lit$097553368$-->\n    <svg width=\"192\" height=\"49\" viewBox=\"0 0 192 49\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"#01A49A\">\n        <path d=\"M35.8136 12.9128C35.5209 12.9128 35.2233 12.9272 34.9402 12.9512C32.2769 13.148 29.748 14.276 27.8045 16.1384C27.7469 16.196 27.6846 16.2536 27.6174 16.316C26.2306 17.708 25.2276 19.4168 24.695 21.2792L19.9538 16.4024H19.9586L19.7427 16.1864C18.4518 14.9288 17.8376 13.172 18.0487 11.372C18.3559 8.7608 20.4769 6.6584 23.097 6.3752C25.9954 6.0584 28.6731 7.9448 29.3305 10.7672C29.3737 10.9496 29.5753 11.0504 29.7432 10.9688C31.3124 10.244 32.9823 9.8024 34.7147 9.6632C34.897 9.6488 35.0218 9.476 34.9786 9.2984C33.7021 4.1192 29.0858 0.5 23.7448 0.5C17.3577 0.5 12.1655 5.6936 12.1655 12.0776C12.1655 12.3704 12.1751 12.6536 12.1991 12.932C12.0264 12.9224 11.8488 12.9176 11.6761 12.9176C5.29377 12.9176 0.101562 18.116 0.101562 24.5C0.101562 30.884 5.29377 36.0776 11.6761 36.0776C11.9688 36.0776 12.2615 36.0632 12.5494 36.0392C15.8221 35.7992 18.8501 34.1624 20.8512 31.5512C20.9424 31.436 20.9328 31.268 20.8272 31.1624L17.0986 27.332C16.9642 27.1928 16.7291 27.2216 16.6283 27.3896C16.374 27.8216 16.0717 28.2104 15.7262 28.556C14.6417 29.6408 13.202 30.2264 11.6569 30.236C8.63847 30.2312 6.07116 27.7784 5.9368 24.7688C5.86002 23.0456 6.52704 21.4232 7.80829 20.252C8.69606 19.4408 9.82855 18.9272 11.0234 18.7976C12.7558 18.6104 14.4353 19.1864 15.6686 20.3864C15.755 20.468 15.8365 20.5544 15.9133 20.636L27.2383 32.2856L27.9869 33.068C28.0972 33.1832 28.2076 33.3176 28.3132 33.4568C29.2201 34.652 29.6184 36.1448 29.4313 37.6568C29.1098 40.2488 26.9935 42.3416 24.3974 42.6248C21.523 42.9416 18.8453 41.0744 18.1687 38.2808C18.1255 38.0984 17.9288 38.0024 17.756 38.0792C16.1868 38.7848 14.5121 39.212 12.7702 39.3416C12.5878 39.356 12.4582 39.5288 12.5062 39.7064C13.8019 44.9624 18.4614 48.5 23.7544 48.5C24.3543 48.5 24.9589 48.4568 25.5731 48.3608C31.4611 47.4632 35.7704 41.9816 35.2953 36.068C35.4681 36.0776 35.6456 36.0824 35.8184 36.0824H38.2657C38.4385 36.0824 38.5776 35.9432 38.5776 35.7704V30.548C38.5776 30.3752 38.4385 30.236 38.2657 30.236H35.8184C34.3116 30.236 32.8864 29.6552 31.8163 28.6136L31.5715 28.3592C30.6118 27.2984 30.0791 25.9304 30.0791 24.5C30.0791 22.964 30.6742 21.524 31.7587 20.4392C32.8432 19.3592 34.278 18.764 35.804 18.7592C38.9663 18.7544 41.5576 21.4376 41.5576 24.6008V28.2392C41.5576 31.3016 44.0386 33.7832 47.1002 33.7832H47.3977V24.5C47.3977 18.1112 42.2055 12.9176 35.8232 12.9176L35.8136 12.9128Z\"></path>\n        <path d=\"M66.2237 40.3113H58.6945C58.6129 40.3113 58.5361 40.3641 58.5122 40.4409L57.3509 43.8729C57.3221 43.9497 57.2501 44.0025 57.1685 44.0025H52.1874C52.0819 44.0025 52.0099 43.8969 52.0435 43.8009L59.4911 23.2041C59.5199 23.1273 59.5919 23.0745 59.6734 23.0745H65.3023C65.3839 23.0745 65.4559 23.1273 65.4847 23.2041L72.9323 43.8009C72.9659 43.9017 72.8939 44.0025 72.7883 44.0025H67.7497C67.6681 44.0025 67.5913 43.9497 67.5673 43.8729L66.406 40.4409C66.3772 40.3641 66.3053 40.3113 66.2237 40.3113ZM62.3511 29.0409L59.947 36.2217C59.923 36.2985 59.9758 36.3753 60.0573 36.3753H64.8896C64.9712 36.3753 65.024 36.2985 65 36.2217L62.5719 29.0409C62.5383 28.9353 62.3847 28.9353 62.3511 29.0409Z\"></path>\n        <path d=\"M75.5989 21.9516H80.3928C80.4744 21.9516 80.5463 22.0188 80.5463 22.1052V43.8588C80.5463 43.9404 80.4792 44.0124 80.3928 44.0124H75.5989C75.5173 44.0124 75.4453 43.9452 75.4453 43.8588V22.1004C75.4453 22.0188 75.5125 21.9468 75.5989 21.9468V21.9516Z\"></path>\n        <path d=\"M91.7775 44.2472C86.8925 44.2472 83.375 40.9688 83.375 35.6936C83.375 30.4184 86.8301 27.14 91.7775 27.14C96.725 27.14 100.06 30.3608 100.06 35.4248C100.06 35.8616 100.036 36.3176 99.9881 36.7784C99.9785 36.8552 99.9162 36.9128 99.8346 36.9128H88.6056C88.5144 36.9128 88.4424 36.9944 88.452 37.0808C88.6872 39.14 89.9972 40.1 91.5952 40.1C92.98"
+    },
+    {
+      "tag": "DIV",
+      "id": "",
+      "cls": "_pagination_1rsl3_1",
+      "text": "1-5 de 17\n1\n2\n3\n4",
+      "html": "<div class=\"_pagination_1rsl3_1\"><div class=\"_row_1rsl3_1\"><div class=\"_showing_1rsl3_1\"><span><b>1-5</b> de 17</span></div><div class=\"_pages_1rsl3_1\"><button class=\"_page_1rsl3_1 _pageSelected_1rsl3_94\">1</button><button class=\"_page_1rsl3_1\">2</button><button class=\"_page_1rsl3_1\">3</button><button class=\"_page_1rsl3_1\">4</button></div><div class=\"flex row gap-4\"><button class=\"_arrowButton_1rsl3_1\" disabled=\"\"><cas-icon></cas-icon></button><button class=\"_arrowButton_1rsl3_1\"><cas-icon></cas-icon></button></div></div></div>"
+    },
+    {
+      "tag": "DIV",
+      "id": "",
+      "cls": "_pages_1rsl3_1",
+      "text": "1\n2\n3\n4",
+      "html": "<div class=\"_pages_1rsl3_1\"><button class=\"_page_1rsl3_1 _pageSelected_1rsl3_94\">1</button><button class=\"_page_1rsl3_1\">2</button><button class=\"_page_1rsl3_1\">3</button><button class=\"_page_1rsl3_1\">4</button></div>"
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "_page_1rsl3_1 _pageSelected_1rsl3_94",
+      "text": "1",
+      "html": "<button class=\"_page_1rsl3_1 _pageSelected_1rsl3_94\">1</button>"
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "_page_1rsl3_1",
+      "text": "2",
+      "html": "<button class=\"_page_1rsl3_1\">2</button>"
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "_page_1rsl3_1",
+      "text": "3",
+      "html": "<button class=\"_page_1rsl3_1\">3</button>"
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "_page_1rsl3_1",
+      "text": "4",
+      "html": "<button class=\"_page_1rsl3_1\">4</button>"
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "cls": "logo",
+      "text": "",
+      "html": "<a class=\"logo\" href=\"https://www.clinicaalemana.cl\" title=\"Clínica Alemana de Santiago\" aria-label=\"Volver a página de inicio de Clínica Alemana\">\n            <!--?lit$097553368$-->\n  <svg width=\"192\" height=\"49\" viewBox=\"0 0 192 49\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"#FFFFFF\">\n    <path d=\"M35.8136 12.9128C35.5209 12.9128 35.2233 12.9272 34.9402 12.9512C32.2769 13.148 29.748 14.276 27.8045 16.1384C27.7469 16.196 27.6846 16.2536 27.6174 16.316C26.2306 17.708 25.2276 19.4168 24.695 21.2792L19.9538 16.4024H19.9586L19.7427 16.1864C18.4518 14.9288 17.8376 13.172 18.0487 11.372C18.3559 8.7608 20.4769 6.6584 23.097 6.3752C25.9954 6.0584 28.6731 7.9448 29.3305 10.7672C29.3737 10.9496 29.5753 11.0504 29.7432 10.9688C31.3124 10.244 32.9823 9.8024 34.7147 9.6632C34.897 9.6488 35.0218 9.476 34.9786 9.2984C33.7021 4.1192 29.0858 0.5 23.7448 0.5C17.3577 0.5 12.1655 5.6936 12.1655 12.0776C12.1655 12.3704 12.1751 12.6536 12.1991 12.932C12.0264 12.9224 11.8488 12.9176 11.6761 12.9176C5.29377 12.9176 0.101562 18.116 0.101562 24.5C0.101562 30.884 5.29377 36.0776 11.6761 36.0776C11.9688 36.0776 12.2615 36.0632 12.5494 36.0392C15.8221 35.7992 18.8501 34.1624 20.8512 31.5512C20.9424 31.436 20.9328 31.268 20.8272 31.1624L17.0986 27.332C16.9642 27.1928 16.7291 27.2216 16.6283 27.3896C16.374 27.8216 16.0717 28.2104 15.7262 28.556C14.6417 29.6408 13.202 30.2264 11.6569 30.236C8.63847 30.2312 6.07116 27.7784 5.9368 24.7688C5.86002 23.0456 6.52704 21.4232 7.80829 20.252C8.69606 19.4408 9.82855 18.9272 11.0234 18.7976C12.7558 18.6104 14.4353 19.1864 15.6686 20.3864C15.755 20.468 15.8365 20.5544 15.9133 20.636L27.2383 32.2856L27.9869 33.068C28.0972 33.1832 28.2076 33.3176 28.3132 33.4568C29.2201 34.652 29.6184 36.1448 29.4313 37.6568C29.1098 40.2488 26.9935 42.3416 24.3974 42.6248C21.523 42.9416 18.8453 41.0744 18.1687 38.2808C18.1255 38.0984 17.9288 38.0024 17.756 38.0792C16.1868 38.7848 14.5121 39.212 12.7702 39.3416C12.5878 39.356 12.4582 39.5288 12.5062 39.7064C13.8019 44.9624 18.4614 48.5 23.7544 48.5C24.3543 48.5 24.9589 48.4568 25.5731 48.3608C31.4611 47.4632 35.7704 41.9816 35.2953 36.068C35.4681 36.0776 35.6456 36.0824 35.8184 36.0824H38.2657C38.4385 36.0824 38.5776 35.9432 38.5776 35.7704V30.548C38.5776 30.3752 38.4385 30.236 38.2657 30.236H35.8184C34.3116 30.236 32.8864 29.6552 31.8163 28.6136L31.5715 28.3592C30.6118 27.2984 30.0791 25.9304 30.0791 24.5C30.0791 22.964 30.6742 21.524 31.7587 20.4392C32.8432 19.3592 34.278 18.764 35.804 18.7592C38.9663 18.7544 41.5576 21.4376 41.5576 24.6008V28.2392C41.5576 31.3016 44.0386 33.7832 47.1002 33.7832H47.3977V24.5C47.3977 18.1112 42.2055 12.9176 35.8232 12.9176L35.8136 12.9128Z\"></path>\n    <path d=\"M66.2237 40.3113H58.6945C58.6129 40.3113 58.5361 40.3641 58.5122 40.4409L57.3509 43.8729C57.3221 43.9497 57.2501 44.0025 57.1685 44.0025H52.1874C52.0819 44.0025 52.0099 43.8969 52.0435 43.8009L59.4911 23.2041C59.5199 23.1273 59.5919 23.0745 59.6734 23.0745H65.3023C65.3839 23.0745 65.4559 23.1273 65.4847 23.2041L72.9323 43.8009C72.9659 43.9017 72.8939 44.0025 72.7883 44.0025H67.7497C67.6681 44.0025 67.5913 43.9497 67.5673 43.8729L66.406 40.4409C66.3772 40.3641 66.3053 40.3113 66.2237 40.3113ZM62.3511 29.0409L59.947 36.2217C59.923 36.2985 59.9758 36.3753 60.0573 36.3753H64.8896C64.9712 36.3753 65.024 36.2985 65 36.2217L62.5719 29.0409C62.5383 28.9353 62.3847 28.9353 62.3511 29.0409Z\"></path>\n    <path d=\"M75.5989 21.9516H80.3928C80.4744 21.9516 80.5463 22.0188 80.5463 22.1052V43.8588C80.5463 43.9404 80.4792 44.0124 80.3928 44.0124H75.5989C75.5173 44.0124 75.4453 43.9452 75.4453 43.8588V22.1004C75.4453 22.0188 75.5125 21.9468 75.5989 21.9468V21.9516Z\"></path>\n    <path d=\"M91.7775 44.2472C86.8925 44.2472 83.375 40.9688 83.375 35.6936C83.375 30.4184 86.8301 27.14 91.7775 27.14C96.725 27.14 100.06 30.3608 100.06 35.4248C100.06 35.8616 100.036 36.3176 99.9881 36.7784C99.9785 36.8552 99.9162 36.9128 99.8346 36.9128H88.6056C88.5144 36.9128 88.4424 36.9944 88.452 37.0808C88.6872 39.14 89.9972 40.1 91.5952 40"
+    }
+  ],
+  "local_storage": {
+    "usbl.c914eeb3fd9f.c.835bbe90ee6f": "F/9/////",
+    "usbl.c914eeb3fd9f.c.df330c4ff9f3": "F/11/T////",
+    "usbl.c914eeb3fd9f.c.4bb74cd75294": "F/2/T////",
+    "_gcl_ls": "{\"schema\":\"gcl\",\"version\":1,\"gsid_dc\":{\"value\":{\"joinId\":\"7f2gn-ClemDgWUtcfVFJGUjl9OjUz7g06w\",\"lastJoinedTimeMs\":1783817246508},\"expires\":1783817546508},\"gcl_ctr\":{\"value\":{\"value\":0,\"timeouts\":0,\"errors\":0,\"eopCount\":0,\"creationTimeMs\":1783817246511},\"expires\":1791593246511}}",
+    "usbl.c914eeb3fd9f.c.61f7d840e3c5": "F/9/T////",
+    "usbl.c914eeb3fd9f.c.4d190420c739": "F/9/T////",
+    "usbl.c914eeb3fd9f.v": "1",
+    "usbl.c914eeb3fd9f.c.b6c3c85b64c1": "F/4/T////",
+    "usbl.c914eeb3fd9f.c.7280933fbaf7": "F/9/////",
+    "usbl.c914eeb3fd9f.c.66a9bc5086d8": "F/11/T////",
+    "lastExternalReferrerTime": "1783817247629",
+    "usbl.c914eeb3fd9f.c.2a2f651a96cf": "F/15/T////",
+    "usbl.c914eeb3fd9f.c.c02fac46104f": "F/24/T////",
+    "lastExternalReferrer": "empty",
+    "usbl.c914eeb3fd9f.c.b52e0c59a916": "F/36/T////",
+    "usbl.c914eeb3fd9f.c.247eabcdb8c4": "F/5/T////",
+    "usbl.c914eeb3fd9f.c.8778c62ef27c": "F/2/////",
+    "usbl.c914eeb3fd9f.c.682ff5d6566c": "F/8/T////",
+    "usbl.c914eeb3fd9f.c.3ef28fd19872": "F/5/T////"
+  },
+  "session_storage": {
+    "getItem": null,
+    "_cltk": "1h5axcs"
+  }
+}
